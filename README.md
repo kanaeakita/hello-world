@@ -1,2 +1,2 @@
 # hello-world
- A wonderful step
+ ゼロから始めるHello, World!
